@@ -1,0 +1,13 @@
+name = "DemoPackageJCM"
+uuid = "3efa0654-7c6b-40fa-ae9c-9b9afbce94d0"
+authors = ["jamiecm17 <moffajamie@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

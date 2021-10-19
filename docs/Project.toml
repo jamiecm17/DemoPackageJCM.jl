@@ -1,0 +1,3 @@
+[deps]
+DemoPackageJCM = "3efa0654-7c6b-40fa-ae9c-9b9afbce94d0"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
