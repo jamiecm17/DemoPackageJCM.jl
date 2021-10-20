@@ -1,5 +1,5 @@
 module DemoPackageJCM
 
-print_greeting()=printstyled("Hello, moon!"; color =:magenta)
+print_greeting()=printstyled("Hello, moon!"; color =:green)
 
 end
