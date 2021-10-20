@@ -1,5 +1,6 @@
 module DemoPackageJCM
 
-print_greeting(io::IO=stdout)=printstyled(io,"Hello, world!"; color =:cyan)
+
+print_greeting(io::IO=stdout)=printstyled("Hello, moon!"; color =:green)
 
 end
