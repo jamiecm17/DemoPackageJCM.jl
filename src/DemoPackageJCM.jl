@@ -1,5 +1,5 @@
 module DemoPackageJCM
 
-print_greeting()=print("Hello, world!")
+print_greeting()=printstyled("Hello, world!"; color =:cyan)
 
 end
